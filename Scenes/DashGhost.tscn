@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://7f20wb3pue4i"]
+
+[ext_resource type="Script" path="res://Scenes/DashGhost.gd" id="1_gw76m"]
+[ext_resource type="Texture2D" uid="uid://cppo5sjkjnlym" path="res://Free/Main Characters/Pink Man/Jump (32x32).png" id="1_rcwct"]
+
+[node name="DashGhost" type="Sprite2D"]
+texture_filter = 1
+texture = ExtResource("1_rcwct")
+script = ExtResource("1_gw76m")

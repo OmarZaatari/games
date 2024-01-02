@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://b14k23rlv0ss1"]
+
+[ext_resource type="Script" path="res://Scenes/dash.gd" id="1_22fyp"]
+
+[node name="dash" type="Node"]
+script = ExtResource("1_22fyp")
+
+[node name="cooldown" type="Timer" parent="."]
+unique_name_in_owner = true
+one_shot = true
+
+[node name="timer" type="Timer" parent="."]
+unique_name_in_owner = true
+one_shot = true

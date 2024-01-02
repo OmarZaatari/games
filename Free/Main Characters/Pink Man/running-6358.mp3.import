@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b4g6kkrmroteb"
+path="res://.godot/imported/running-6358.mp3-26d1bd11adde9230739e5f9ca0a9f8d1.mp3str"
+
+[deps]
+
+source_file="res://Free/Main Characters/Pink Man/running-6358.mp3"
+dest_files=["res://.godot/imported/running-6358.mp3-26d1bd11adde9230739e5f9ca0a9f8d1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
